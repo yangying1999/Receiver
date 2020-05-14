@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExportImportMemento.1>
+<VarMeta IMemento.internal.id="updateLcd"/>
+<VarMeta IMemento.internal.id="latestActiveAdcSensorNode"/>
+<VarMeta IMemento.internal.id="(*(nodePointer)).adcValueChart"/>
+</ExportImportMemento.1>
